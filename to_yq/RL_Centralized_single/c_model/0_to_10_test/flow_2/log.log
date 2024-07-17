@@ -1,0 +1,206 @@
+INFO 2024-05-21 19:16:42,520-main.py[line:60] args : Namespace(flow_num=2, model_suffix='test', traffic_exp_name='flow_2', traffic_id_begin=0, traffic_id_end=10, traffic_prefix='c_')
+INFO 2024-05-21 19:16:42,520-main.py[line:61] pid : 14849
+INFO 2024-05-21 19:16:42,520-main.py[line:69] flow : 2 , traffic id : 0
+INFO 2024-05-21 19:16:42,521-config.py[line:28] theory : [0.50776053] , path : ../common/c_theory_throughput/flow_2/traffic_0.npy
+INFO 2024-05-21 19:16:42,521-config.py[line:86] the flow information :
+INFO 2024-05-21 19:16:42,522-config.py[line:87] the offset : [array([4, 3])]
+INFO 2024-05-21 19:16:42,522-config.py[line:88] the period : [array([1, 5])]
+INFO 2024-05-21 19:16:42,522-config.py[line:89] the deadline : [array([1, 2])]
+INFO 2024-05-21 19:16:42,522-config.py[line:90] the arrival prob : [array([0.7, 1. ])]
+INFO 2024-05-21 19:16:42,522-config.py[line:91] the channel prob : [array([0.5, 0.8])]
+INFO 2024-05-21 19:16:42,522-config.py[line:92] the theory throughput : [0.50776053]
+INFO 2024-05-21 19:16:42,531-config.py[line:117] simulation time : 120
+INFO 2024-05-21 19:17:16,101-main.py[line:158] (20) timely throughput : 0.5007734806629834mac delay(queue, total packet) : 1.66961mac delay(head, total packet) : 1.66961mac delay(queue, success packet) : 1.26567mac delay(head, success packet) : 1.26567action cnt : [656, 2958, 1386]
+INFO 2024-05-21 19:17:16,101-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_0.npy
+INFO 2024-05-21 19:17:44,329-main.py[line:158] (40) timely throughput : 0.5057880676758683mac delay(queue, total packet) : 1.54452mac delay(head, total packet) : 1.54452mac delay(queue, success packet) : 1.08187mac delay(head, success packet) : 1.08187action cnt : [311, 2638, 2051]
+INFO 2024-05-21 19:17:44,330-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_0.npy
+INFO 2024-05-21 19:18:12,449-main.py[line:158] (60) timely throughput : 0.5251509054325956mac delay(queue, total packet) : 1.6385mac delay(head, total packet) : 1.6385mac delay(queue, success packet) : 1.24606mac delay(head, success packet) : 1.24606action cnt : [691, 3256, 1053]
+INFO 2024-05-21 19:18:12,449-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_0.npy
+INFO 2024-05-21 19:18:40,704-main.py[line:158] (80) timely throughput : 0.5074560427331405mac delay(queue, total packet) : 1.53639mac delay(head, total packet) : 1.53639mac delay(queue, success packet) : 1.07105mac delay(head, success packet) : 1.07105action cnt : [3, 2942, 2055]
+INFO 2024-05-21 19:19:09,109-main.py[line:158] (100) timely throughput : 0.5097909790979098mac delay(queue, total packet) : 1.53685mac delay(head, total packet) : 1.53685mac delay(queue, success packet) : 1.0751mac delay(head, success packet) : 1.0751action cnt : [1108, 2678, 1214]
+INFO 2024-05-21 19:19:09,110-main.py[line:183] now episode : 100, total time : 143.83936977386475, avg time: 1.4383936977386476
+INFO 2024-05-21 19:19:09,110-main.py[line:186] End
+INFO 2024-05-21 19:19:09,110-main.py[line:69] flow : 2 , traffic id : 1
+INFO 2024-05-21 19:19:09,111-config.py[line:28] theory : [0.66145877] , path : ../common/c_theory_throughput/flow_2/traffic_1.npy
+INFO 2024-05-21 19:19:09,111-config.py[line:86] the flow information :
+INFO 2024-05-21 19:19:09,111-config.py[line:87] the offset : [array([1, 5])]
+INFO 2024-05-21 19:19:09,111-config.py[line:88] the period : [array([1, 2])]
+INFO 2024-05-21 19:19:09,112-config.py[line:89] the deadline : [array([1, 2])]
+INFO 2024-05-21 19:19:09,112-config.py[line:90] the arrival prob : [array([0.8, 0.8])]
+INFO 2024-05-21 19:19:09,112-config.py[line:91] the channel prob : [array([0.9, 0.5])]
+INFO 2024-05-21 19:19:09,112-config.py[line:92] the theory throughput : [0.66145877]
+INFO 2024-05-21 19:19:09,115-config.py[line:117] simulation time : 120
+INFO 2024-05-21 19:19:37,105-main.py[line:158] (20) timely throughput : 0.6601220920640158mac delay(queue, total packet) : 1.63719mac delay(head, total packet) : 1.63719mac delay(queue, success packet) : 1.04474mac delay(head, success packet) : 1.04474action cnt : [129, 4072, 799]
+INFO 2024-05-21 19:19:37,105-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_1.npy
+INFO 2024-05-21 19:20:05,129-main.py[line:158] (40) timely throughput : 0.6687218796867189mac delay(queue, total packet) : 1.6294mac delay(head, total packet) : 1.6294mac delay(queue, success packet) : 1.04834mac delay(head, success packet) : 1.04834action cnt : [140, 4019, 841]
+INFO 2024-05-21 19:20:05,129-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_1.npy
+INFO 2024-05-21 19:20:33,285-main.py[line:158] (60) timely throughput : 0.6678339169584793mac delay(queue, total packet) : 1.63032mac delay(head, total packet) : 1.63032mac delay(queue, success packet) : 1.04669mac delay(head, success packet) : 1.04669action cnt : [135, 3990, 875]
+INFO 2024-05-21 19:21:01,601-main.py[line:158] (80) timely throughput : 0.6673370202781967mac delay(queue, total packet) : 1.63231mac delay(head, total packet) : 1.63231mac delay(queue, success packet) : 1.04671mac delay(head, success packet) : 1.04671action cnt : [137, 4096, 767]
+INFO 2024-05-21 19:21:01,601-main.py[line:183] now episode : 80, total time : 110.24641919136047, avg time: 1.378080239892006
+INFO 2024-05-21 19:21:01,601-main.py[line:186] End
+INFO 2024-05-21 19:21:01,601-main.py[line:69] flow : 2 , traffic id : 2
+INFO 2024-05-21 19:21:01,602-config.py[line:28] theory : [0.99965718] , path : ../common/c_theory_throughput/flow_2/traffic_2.npy
+INFO 2024-05-21 19:21:01,603-config.py[line:86] the flow information :
+INFO 2024-05-21 19:21:01,603-config.py[line:87] the offset : [array([0, 4])]
+INFO 2024-05-21 19:21:01,603-config.py[line:88] the period : [array([4, 3])]
+INFO 2024-05-21 19:21:01,603-config.py[line:89] the deadline : [array([2, 3])]
+INFO 2024-05-21 19:21:01,603-config.py[line:90] the arrival prob : [array([1., 1.])]
+INFO 2024-05-21 19:21:01,603-config.py[line:91] the channel prob : [array([1., 1.])]
+INFO 2024-05-21 19:21:01,603-config.py[line:92] the theory throughput : [0.99965718]
+INFO 2024-05-21 19:21:01,606-config.py[line:117] simulation time : 120
+INFO 2024-05-21 19:21:29,776-main.py[line:158] (20) timely throughput : 0.9996571820363387mac delay(queue, total packet) : 1.14261mac delay(head, total packet) : 1.14261mac delay(queue, success packet) : 1.143mac delay(head, success packet) : 1.143action cnt : [1251, 1250, 2499]
+INFO 2024-05-21 19:21:29,776-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_2.npy
+INFO 2024-05-21 19:21:57,874-main.py[line:158] (40) timely throughput : 0.9996571820363387mac delay(queue, total packet) : 1.14261mac delay(head, total packet) : 1.14261mac delay(queue, success packet) : 1.143mac delay(head, success packet) : 1.143action cnt : [418, 1250, 3332]
+INFO 2024-05-21 19:22:26,132-main.py[line:158] (60) timely throughput : 0.9996571820363387mac delay(queue, total packet) : 1.14261mac delay(head, total packet) : 1.14261mac delay(queue, success packet) : 1.143mac delay(head, success packet) : 1.143action cnt : [834, 1667, 2499]
+INFO 2024-05-21 19:22:54,569-main.py[line:158] (80) timely throughput : 0.9996571820363387mac delay(queue, total packet) : 1.14261mac delay(head, total packet) : 1.14261mac delay(queue, success packet) : 1.143mac delay(head, success packet) : 1.143action cnt : [418, 1667, 2915]
+INFO 2024-05-21 19:22:54,569-main.py[line:183] now episode : 80, total time : 110.86400365829468, avg time: 1.3858000457286834
+INFO 2024-05-21 19:22:54,569-main.py[line:186] End
+INFO 2024-05-21 19:22:54,569-main.py[line:69] flow : 2 , traffic id : 3
+INFO 2024-05-21 19:22:54,570-config.py[line:28] theory : [0.67951766] , path : ../common/c_theory_throughput/flow_2/traffic_3.npy
+INFO 2024-05-21 19:22:54,570-config.py[line:86] the flow information :
+INFO 2024-05-21 19:22:54,571-config.py[line:87] the offset : [array([5, 3])]
+INFO 2024-05-21 19:22:54,571-config.py[line:88] the period : [array([2, 3])]
+INFO 2024-05-21 19:22:54,571-config.py[line:89] the deadline : [array([1, 2])]
+INFO 2024-05-21 19:22:54,571-config.py[line:90] the arrival prob : [array([0.7, 0.7])]
+INFO 2024-05-21 19:22:54,571-config.py[line:91] the channel prob : [array([0.6, 0.7])]
+INFO 2024-05-21 19:22:54,571-config.py[line:92] the theory throughput : [0.67951766]
+INFO 2024-05-21 19:22:54,574-config.py[line:117] simulation time : 120
+INFO 2024-05-21 19:23:22,692-main.py[line:158] (20) timely throughput : 0.6723491305830208mac delay(queue, total packet) : 1.55165mac delay(head, total packet) : 1.55165mac delay(queue, success packet) : 1.19016mac delay(head, success packet) : 1.19016action cnt : [597, 2290, 2113]
+INFO 2024-05-21 19:23:22,692-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_3.npy
+INFO 2024-05-21 19:23:50,914-main.py[line:158] (40) timely throughput : 0.6808803301237965mac delay(queue, total packet) : 1.53336mac delay(head, total packet) : 1.53336mac delay(queue, success packet) : 1.21465mac delay(head, success packet) : 1.21465action cnt : [1457, 1878, 1665]
+INFO 2024-05-21 19:23:50,914-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_3.npy
+INFO 2024-05-21 19:24:19,198-main.py[line:158] (60) timely throughput : 0.6808803301237965mac delay(queue, total packet) : 1.53404mac delay(head, total packet) : 1.53404mac delay(queue, success packet) : 1.22273mac delay(head, success packet) : 1.22273action cnt : [1086, 1892, 2022]
+INFO 2024-05-21 19:24:47,541-main.py[line:158] (80) timely throughput : 0.6786318997629529mac delay(queue, total packet) : 1.53674mac delay(head, total packet) : 1.53674mac delay(queue, success packet) : 1.22754mac delay(head, success packet) : 1.22754action cnt : [0, 1904, 3096]
+INFO 2024-05-21 19:24:47,541-main.py[line:183] now episode : 80, total time : 110.84005355834961, avg time: 1.3855006694793701
+INFO 2024-05-21 19:24:47,541-main.py[line:186] End
+INFO 2024-05-21 19:24:47,541-main.py[line:69] flow : 2 , traffic id : 4
+INFO 2024-05-21 19:24:47,542-config.py[line:28] theory : [0.76120728] , path : ../common/c_theory_throughput/flow_2/traffic_4.npy
+INFO 2024-05-21 19:24:47,542-config.py[line:86] the flow information :
+INFO 2024-05-21 19:24:47,542-config.py[line:87] the offset : [array([2, 1])]
+INFO 2024-05-21 19:24:47,542-config.py[line:88] the period : [array([2, 2])]
+INFO 2024-05-21 19:24:47,542-config.py[line:89] the deadline : [array([2, 2])]
+INFO 2024-05-21 19:24:47,543-config.py[line:90] the arrival prob : [array([0.9, 0.9])]
+INFO 2024-05-21 19:24:47,543-config.py[line:91] the channel prob : [array([0.7, 0.7])]
+INFO 2024-05-21 19:24:47,543-config.py[line:92] the theory throughput : [0.76120728]
+INFO 2024-05-21 19:24:47,545-config.py[line:117] simulation time : 120
+INFO 2024-05-21 19:25:15,589-main.py[line:158] (20) timely throughput : 0.7388863942523575mac delay(queue, total packet) : 1.64706mac delay(head, total packet) : 1.64706mac delay(queue, success packet) : 1.17077mac delay(head, success packet) : 1.17077action cnt : [0, 3229, 1771]
+INFO 2024-05-21 19:25:15,590-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_4.npy
+INFO 2024-05-21 19:25:43,700-main.py[line:158] (40) timely throughput : 0.7607142857142857mac delay(queue, total packet) : 2.03951mac delay(head, total packet) : 2.03951mac delay(queue, success packet) : 1.73826mac delay(head, success packet) : 1.73826action cnt : [62, 2425, 2513]
+INFO 2024-05-21 19:25:43,700-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_4.npy
+INFO 2024-05-21 19:26:11,859-main.py[line:158] (60) timely throughput : 0.7611775121735281mac delay(queue, total packet) : 2.05644mac delay(head, total packet) : 2.05644mac delay(queue, success packet) : 1.76127mac delay(head, success packet) : 1.76127action cnt : [65, 2416, 2519]
+INFO 2024-05-21 19:26:11,859-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_4.npy
+INFO 2024-05-21 19:26:40,202-main.py[line:158] (80) timely throughput : 0.7470627355353581mac delay(queue, total packet) : 2.05697mac delay(head, total packet) : 2.05697mac delay(queue, success packet) : 1.73947mac delay(head, success packet) : 1.73947action cnt : [64, 2444, 2492]
+INFO 2024-05-21 19:27:08,697-main.py[line:158] (100) timely throughput : 0.7649420160570919mac delay(queue, total packet) : 2.03791mac delay(head, total packet) : 2.03791mac delay(queue, success packet) : 1.74402mac delay(head, success packet) : 1.74402action cnt : [65, 2414, 2521]
+INFO 2024-05-21 19:27:08,697-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_4.npy
+INFO 2024-05-21 19:27:37,547-main.py[line:158] (120) timely throughput : 0.757003112494442mac delay(queue, total packet) : 2.06292mac delay(head, total packet) : 2.06292mac delay(queue, success packet) : 1.763mac delay(head, success packet) : 1.763action cnt : [71, 2447, 2482]
+INFO 2024-05-21 19:27:37,547-main.py[line:183] now episode : 120, total time : 166.66419100761414, avg time: 1.3888682583967844
+INFO 2024-05-21 19:27:37,547-main.py[line:186] End
+INFO 2024-05-21 19:27:37,547-main.py[line:69] flow : 2 , traffic id : 5
+INFO 2024-05-21 19:27:37,548-config.py[line:28] theory : [0.76641313] , path : ../common/c_theory_throughput/flow_2/traffic_5.npy
+INFO 2024-05-21 19:27:37,549-config.py[line:86] the flow information :
+INFO 2024-05-21 19:27:37,549-config.py[line:87] the offset : [array([3, 5])]
+INFO 2024-05-21 19:27:37,549-config.py[line:88] the period : [array([4, 2])]
+INFO 2024-05-21 19:27:37,549-config.py[line:89] the deadline : [array([3, 1])]
+INFO 2024-05-21 19:27:37,549-config.py[line:90] the arrival prob : [array([1. , 0.5])]
+INFO 2024-05-21 19:27:37,549-config.py[line:91] the channel prob : [array([0.5, 0.8])]
+INFO 2024-05-21 19:27:37,549-config.py[line:92] the theory throughput : [0.76641313]
+INFO 2024-05-21 19:27:37,552-config.py[line:117] simulation time : 120
+INFO 2024-05-21 19:28:05,618-main.py[line:158] (20) timely throughput : 0.7572933549432739mac delay(queue, total packet) : 1.81361mac delay(head, total packet) : 1.81361mac delay(queue, success packet) : 1.37721mac delay(head, success packet) : 1.37721action cnt : [320, 1830, 2850]
+INFO 2024-05-21 19:28:05,618-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_5.npy
+INFO 2024-05-21 19:28:33,453-main.py[line:158] (40) timely throughput : 0.7714859437751004mac delay(queue, total packet) : 1.78313mac delay(head, total packet) : 1.78313mac delay(queue, success packet) : 1.36283mac delay(head, success packet) : 1.36283action cnt : [319, 1779, 2902]
+INFO 2024-05-21 19:28:33,454-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_5.npy
+INFO 2024-05-21 19:29:01,358-main.py[line:158] (60) timely throughput : 0.7509803921568627mac delay(queue, total packet) : 1.78863mac delay(head, total packet) : 1.78863mac delay(queue, success packet) : 1.3436mac delay(head, success packet) : 1.3436action cnt : [1576, 2123, 1301]
+INFO 2024-05-21 19:29:29,418-main.py[line:158] (80) timely throughput : 0.7493985565356857mac delay(queue, total packet) : 1.81315mac delay(head, total packet) : 1.81315mac delay(queue, success packet) : 1.36972mac delay(head, success packet) : 1.36972action cnt : [1249, 1806, 1945]
+INFO 2024-05-21 19:29:57,548-main.py[line:158] (100) timely throughput : 0.7718600953895072mac delay(queue, total packet) : 1.79173mac delay(head, total packet) : 1.79173mac delay(queue, success packet) : 1.38002mac delay(head, success packet) : 1.38002action cnt : [1249, 1790, 1961]
+INFO 2024-05-21 19:29:57,549-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_5.npy
+INFO 2024-05-21 19:30:25,702-main.py[line:158] (120) timely throughput : 0.7612mac delay(queue, total packet) : 1.7888mac delay(head, total packet) : 1.7888mac delay(queue, success packet) : 1.35681mac delay(head, success packet) : 1.35681action cnt : [1249, 1769, 1982]
+INFO 2024-05-21 19:30:25,703-main.py[line:183] now episode : 120, total time : 164.97675895690918, avg time: 1.37480632464091
+INFO 2024-05-21 19:30:25,703-main.py[line:186] End
+INFO 2024-05-21 19:30:25,703-main.py[line:69] flow : 2 , traffic id : 6
+INFO 2024-05-21 19:30:25,703-config.py[line:28] theory : [0.91093782] , path : ../common/c_theory_throughput/flow_2/traffic_6.npy
+INFO 2024-05-21 19:30:25,704-config.py[line:86] the flow information :
+INFO 2024-05-21 19:30:25,704-config.py[line:87] the offset : [array([3, 0])]
+INFO 2024-05-21 19:30:25,704-config.py[line:88] the period : [array([3, 4])]
+INFO 2024-05-21 19:30:25,704-config.py[line:89] the deadline : [array([2, 4])]
+INFO 2024-05-21 19:30:25,704-config.py[line:90] the arrival prob : [array([0.7, 1. ])]
+INFO 2024-05-21 19:30:25,704-config.py[line:91] the channel prob : [array([0.6, 0.9])]
+INFO 2024-05-21 19:30:25,705-config.py[line:92] the theory throughput : [0.91093782]
+INFO 2024-05-21 19:30:25,707-config.py[line:117] simulation time : 120
+INFO 2024-05-21 19:30:53,566-main.py[line:158] (20) timely throughput : 0.8892988929889298mac delay(queue, total packet) : 1.48216mac delay(head, total packet) : 1.48216mac delay(queue, success packet) : 1.29461mac delay(head, success packet) : 1.29461action cnt : [0, 2342, 2658]
+INFO 2024-05-21 19:30:53,567-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_6.npy
+INFO 2024-05-21 19:31:21,453-main.py[line:158] (40) timely throughput : 0.9088330632090762mac delay(queue, total packet) : 1.58752mac delay(head, total packet) : 1.58752mac delay(queue, success packet) : 1.44449mac delay(head, success packet) : 1.44449action cnt : [582, 2076, 2342]
+INFO 2024-05-21 19:31:21,454-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_6.npy
+INFO 2024-05-21 19:31:49,398-main.py[line:158] (60) timely throughput : 0.9135543432647922mac delay(queue, total packet) : 1.56735mac delay(head, total packet) : 1.56735mac delay(queue, success packet) : 1.43041mac delay(head, success packet) : 1.43041action cnt : [0, 2687, 2313]
+INFO 2024-05-21 19:31:49,398-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_6.npy
+INFO 2024-05-21 19:32:17,492-main.py[line:158] (80) timely throughput : 0.9150943396226415mac delay(queue, total packet) : 1.605mac delay(head, total packet) : 1.605mac delay(queue, success packet) : 1.47512mac delay(head, success packet) : 1.47512action cnt : [0, 2705, 2295]
+INFO 2024-05-21 19:32:17,492-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_6.npy
+INFO 2024-05-21 19:32:45,715-main.py[line:158] (100) timely throughput : 0.9121236777868186mac delay(queue, total packet) : 1.59479mac delay(head, total packet) : 1.59479mac delay(queue, success packet) : 1.45718mac delay(head, success packet) : 1.45718action cnt : [524, 2290, 2186]
+INFO 2024-05-21 19:32:45,716-main.py[line:183] now episode : 100, total time : 137.39673399925232, avg time: 1.3739673399925232
+INFO 2024-05-21 19:32:45,716-main.py[line:186] End
+INFO 2024-05-21 19:32:45,716-main.py[line:69] flow : 2 , traffic id : 7
+INFO 2024-05-21 19:32:45,717-config.py[line:28] theory : [0.92601103] , path : ../common/c_theory_throughput/flow_2/traffic_7.npy
+INFO 2024-05-21 19:32:45,717-config.py[line:86] the flow information :
+INFO 2024-05-21 19:32:45,717-config.py[line:87] the offset : [array([0, 0])]
+INFO 2024-05-21 19:32:45,717-config.py[line:88] the period : [array([3, 5])]
+INFO 2024-05-21 19:32:45,717-config.py[line:89] the deadline : [array([3, 2])]
+INFO 2024-05-21 19:32:45,717-config.py[line:90] the arrival prob : [array([1. , 0.5])]
+INFO 2024-05-21 19:32:45,718-config.py[line:91] the channel prob : [array([0.6, 0.9])]
+INFO 2024-05-21 19:32:45,718-config.py[line:92] the theory throughput : [0.92601103]
+INFO 2024-05-21 19:32:45,720-config.py[line:117] simulation time : 120
+INFO 2024-05-21 19:33:13,553-main.py[line:158] (20) timely throughput : 0.9300827966881324mac delay(queue, total packet) : 1.62971mac delay(head, total packet) : 1.62971mac delay(queue, success packet) : 1.45549mac delay(head, success packet) : 1.45549action cnt : [864, 3587, 549]
+INFO 2024-05-21 19:33:13,553-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_7.npy
+INFO 2024-05-21 19:33:41,441-main.py[line:158] (40) timely throughput : 0.9329660238751147mac delay(queue, total packet) : 1.62259mac delay(head, total packet) : 1.62259mac delay(queue, success packet) : 1.45522mac delay(head, success packet) : 1.45522action cnt : [0, 2771, 2229]
+INFO 2024-05-21 19:33:41,441-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_7.npy
+INFO 2024-05-21 19:34:09,370-main.py[line:158] (60) timely throughput : 0.916552040348464mac delay(queue, total packet) : 1.66483mac delay(head, total packet) : 1.66483mac delay(queue, success packet) : 1.45873mac delay(head, success packet) : 1.45873action cnt : [853, 2829, 1318]
+INFO 2024-05-21 19:34:37,462-main.py[line:158] (80) timely throughput : 0.9271644525881814mac delay(queue, total packet) : 1.62529mac delay(head, total packet) : 1.62529mac delay(queue, success packet) : 1.44269mac delay(head, success packet) : 1.44269action cnt : [867, 2795, 1338]
+INFO 2024-05-21 19:34:37,462-main.py[line:183] now episode : 80, total time : 109.64915132522583, avg time: 1.3706143915653228
+INFO 2024-05-21 19:34:37,462-main.py[line:186] End
+INFO 2024-05-21 19:34:37,462-main.py[line:69] flow : 2 , traffic id : 8
+INFO 2024-05-21 19:34:37,463-config.py[line:28] theory : [0.77284206] , path : ../common/c_theory_throughput/flow_2/traffic_8.npy
+INFO 2024-05-21 19:34:37,463-config.py[line:86] the flow information :
+INFO 2024-05-21 19:34:37,463-config.py[line:87] the offset : [array([2, 3])]
+INFO 2024-05-21 19:34:37,464-config.py[line:88] the period : [array([3, 1])]
+INFO 2024-05-21 19:34:37,464-config.py[line:89] the deadline : [array([2, 1])]
+INFO 2024-05-21 19:34:37,464-config.py[line:90] the arrival prob : [array([0.8, 0.6])]
+INFO 2024-05-21 19:34:37,464-config.py[line:91] the channel prob : [array([0.7, 0.9])]
+INFO 2024-05-21 19:34:37,464-config.py[line:92] the theory throughput : [0.77284206]
+INFO 2024-05-21 19:34:37,466-config.py[line:117] simulation time : 120
+INFO 2024-05-21 19:35:05,346-main.py[line:158] (20) timely throughput : 0.7761674718196457mac delay(queue, total packet) : 1.43984mac delay(head, total packet) : 1.43984mac delay(queue, success packet) : 1.08328mac delay(head, success packet) : 1.08328action cnt : [438, 918, 3644]
+INFO 2024-05-21 19:35:05,346-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_8.npy
+INFO 2024-05-21 19:35:33,340-main.py[line:158] (40) timely throughput : 0.7707656612529002mac delay(queue, total packet) : 1.4536mac delay(head, total packet) : 1.4536mac delay(queue, success packet) : 1.08519mac delay(head, success packet) : 1.08519action cnt : [404, 965, 3631]
+INFO 2024-05-21 19:36:02,026-main.py[line:158] (60) timely throughput : 0.7754345307068367mac delay(queue, total packet) : 1.43685mac delay(head, total packet) : 1.43685mac delay(queue, success packet) : 1.07561mac delay(head, success packet) : 1.07561action cnt : [423, 914, 3663]
+INFO 2024-05-21 19:36:31,481-main.py[line:158] (80) timely throughput : 0.7667195647245523mac delay(queue, total packet) : 1.45749mac delay(head, total packet) : 1.45749mac delay(queue, success packet) : 1.0825mac delay(head, success packet) : 1.0825action cnt : [0, 903, 4097]
+INFO 2024-05-21 19:36:31,482-main.py[line:183] now episode : 80, total time : 111.81146430969238, avg time: 1.3976433038711549
+INFO 2024-05-21 19:36:31,482-main.py[line:186] End
+INFO 2024-05-21 19:36:31,482-main.py[line:69] flow : 2 , traffic id : 9
+INFO 2024-05-21 19:36:31,483-config.py[line:28] theory : [0.77551493] , path : ../common/c_theory_throughput/flow_2/traffic_9.npy
+INFO 2024-05-21 19:36:31,483-config.py[line:86] the flow information :
+INFO 2024-05-21 19:36:31,483-config.py[line:87] the offset : [array([4, 1])]
+INFO 2024-05-21 19:36:31,483-config.py[line:88] the period : [array([5, 3])]
+INFO 2024-05-21 19:36:31,483-config.py[line:89] the deadline : [array([1, 2])]
+INFO 2024-05-21 19:36:31,483-config.py[line:90] the arrival prob : [array([0.5, 1. ])]
+INFO 2024-05-21 19:36:31,484-config.py[line:91] the channel prob : [array([0.7, 0.6])]
+INFO 2024-05-21 19:36:31,484-config.py[line:92] the theory throughput : [0.77551493]
+INFO 2024-05-21 19:36:31,486-config.py[line:117] simulation time : 120
+INFO 2024-05-21 19:36:59,230-main.py[line:158] (20) timely throughput : 0.7689497716894977mac delay(queue, total packet) : 1.57991mac delay(head, total packet) : 1.57991mac delay(queue, success packet) : 1.24584mac delay(head, success packet) : 1.24584action cnt : [334, 2277, 2389]
+INFO 2024-05-21 19:36:59,231-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_9.npy
+INFO 2024-05-21 19:37:27,191-main.py[line:158] (40) timely throughput : 0.7705369435520881mac delay(queue, total packet) : 1.57916mac delay(head, total packet) : 1.57916mac delay(queue, success packet) : 1.24419mac delay(head, success packet) : 1.24419action cnt : [334, 2478, 2188]
+INFO 2024-05-21 19:37:27,192-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_9.npy
+INFO 2024-05-21 19:37:55,177-main.py[line:158] (60) timely throughput : 0.7860120426123205mac delay(queue, total packet) : 1.56276mac delay(head, total packet) : 1.56276mac delay(queue, success packet) : 1.25103mac delay(head, success packet) : 1.25103action cnt : [1778, 687, 2535]
+INFO 2024-05-21 19:37:55,177-main.py[line:167] save path : ../common/c_theory_throughput/flow_2/traffic_9.npy
+INFO 2024-05-21 19:38:23,306-main.py[line:158] (80) timely throughput : 0.7617946345975948mac delay(queue, total packet) : 1.58696mac delay(head, total packet) : 1.58696mac delay(queue, success packet) : 1.24529mac delay(head, success packet) : 1.24529action cnt : [602, 2198, 2200]
+INFO 2024-05-21 19:38:51,442-main.py[line:158] (100) timely throughput : 0.7591074681238615mac delay(queue, total packet) : 1.59836mac delay(head, total packet) : 1.59836mac delay(queue, success packet) : 1.25135mac delay(head, success packet) : 1.25135action cnt : [907, 1874, 2219]
+INFO 2024-05-21 19:39:19,657-main.py[line:158] (120) timely throughput : 0.7773148148148148mac delay(queue, total packet) : 1.58333mac delay(head, total packet) : 1.58333mac delay(queue, success packet) : 1.26266mac delay(head, success packet) : 1.26266action cnt : [578, 1996, 2426]
+INFO 2024-05-21 19:39:47,886-main.py[line:158] (140) timely throughput : 0.777111213659437mac delay(queue, total packet) : 1.57268mac delay(head, total packet) : 1.57268mac delay(queue, success packet) : 1.24525mac delay(head, success packet) : 1.24525action cnt : [605, 2007, 2388]
+INFO 2024-05-21 19:39:47,887-main.py[line:183] now episode : 140, total time : 192.76547980308533, avg time: 1.3768962843077523
+INFO 2024-05-21 19:39:47,887-main.py[line:186] End
+INFO 2024-05-21 19:39:47,887-main.py[line:69] flow : 2 , traffic id : 10
+INFO 2024-05-21 19:39:47,888-config.py[line:28] theory : [0.81959379] , path : ../common/c_theory_throughput/flow_2/traffic_10.npy
+INFO 2024-05-21 19:39:47,888-config.py[line:86] the flow information :
+INFO 2024-05-21 19:39:47,888-config.py[line:87] the offset : [array([0, 2])]
+INFO 2024-05-21 19:39:47,888-config.py[line:88] the period : [array([1, 3])]
+INFO 2024-05-21 19:39:47,889-config.py[line:89] the deadline : [array([1, 1])]
+INFO 2024-05-21 19:39:47,889-config.py[line:90] the arrival prob : [array([0.8, 0.6])]
+INFO 2024-05-21 19:39:47,889-config.py[line:91] the channel prob : [array([1. , 0.5])]
+INFO 2024-05-21 19:39:47,889-config.py[line:92] the theory throughput : [0.81959379]
+INFO 2024-05-21 19:39:47,891-config.py[line:117] simulation time : 120
